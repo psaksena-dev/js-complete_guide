@@ -1,2 +1,2 @@
-# js-complete_guide
-Basic Javascript Course
+# Javascript - A Complete Guide
+Javascript Course for beginners
